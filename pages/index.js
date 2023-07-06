@@ -13,10 +13,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Next.js Toolbox" />
+        <Header title="Next.js Toolbox by Vasily Ps" />
         <hr />
         <p className="description">
-          Here's an example of a Netlify Form! When you fill this out, the
+          Here's A App  Netlify Form! When you fill this out, the
           submissions can be found in the Netlify Admin site.
         </p>
         <FeedbackForm />
